@@ -1,5 +1,5 @@
 # Macy Brown
 
-<EWU Design Student
+< EWU Design Student
 
 My bio...
