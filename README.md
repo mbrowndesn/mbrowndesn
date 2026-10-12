@@ -21,3 +21,7 @@ Welcome to my GitHub page! I'm a student at Eastern Washington University pursui
 </a>
 
 **Angelina** · Pinegrove
+
+---
+
+[![Listen](https://img.shields.io/badge/Press_Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://yourusername.github.io/music)
