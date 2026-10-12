@@ -16,20 +16,6 @@ Welcome to my GitHub page! I'm a student at Eastern Washington University pursui
 
 ## Current Music Essentials
 
-<a href="https://open.spotify.com/track/7Dt26KoNRmZpzlVwMe6LSP">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734e48dddf8b7fa7f224015588" width="120" alt="Angelina by Pinegrove">
-</a>
-
-**Angelina** · Pinegrove
-
-<a href="https://open.spotify.com/track/5gbxzSqABThINGDb7vIiwe">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731e3dbe4453ed61633c472fbe" width="120" alt="Edge of Desire by John Mayer">
-</a>
-
-**Edge of Desire** · John Mayer
-
-<a href="https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1">
-  <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" width="120" alt="1979 by The Smashing Pumpkins">
-</a>
-
-**1979** · The Smashing Pumpkins
+| [![Angelina](https://i.scdn.co/image/ab67616d0000b2734e48dddf8b7fa7f224015588)](https://open.spotify.com/track/7Dt26KoNRmZpzlVwMe6LSP) | [![Edge of Desire](https://i.scdn.co/image/ab67616d0000b2731e3dbe4453ed61633c472fbe)](https://open.spotify.com/track/5gbxzSqABThINGDb7vIiwe) | [![1979](https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6)](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [![Apple Pie](https://i.scdn.co/image/ab67616d0000b2736c1ff9424f275a8af7c72551)](https://open.spotify.com/track/0zLnAV1lYEhVnKk3ITmCym) |
+|:---:|:---:|:---:|:---:|
+| **Angelina**<br>Pinegrove | **Edge of Desire**<br>John Mayer | **1979**<br>The Smashing Pumpkins | **Apple Pie**<br>Lizzy McAlpine |
