@@ -1,6 +1,7 @@
 # Macy Brown
 
-<img width="640" height="265" alt="github Medium" src="https://github.com/user-attachments/assets/8e3ecc60-2878-4ee2-be8d-86f0662bff08" />
+<img width="4608" height="1909" alt="GithubBanner" src="https://github.com/user-attachments/assets/eddd5344-e094-45ce-a745-53d667f53dfe" />
+
 
 
 My bio...
