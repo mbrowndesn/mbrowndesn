@@ -1,5 +1,6 @@
 # Macy Brown
 
-< EWU Design Student
+![Uploading GithubBanner.png…]()
+
 
 My bio...
