@@ -14,14 +14,9 @@ Welcome to my GitHub page! I'm a student at Eastern Washington University pursui
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## On Repeat
+## Current Music Essentials
 
-<a href="https://open.spotify.com/track/7Dt26KoNRmZpzlVwMe6LSP">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734e48dddf8b7fa7f224015588" width="120" alt="Angelina by Pinegrove">
-</a>
+| [![Angelina](https://i.scdn.co/image/ab67616d0000b2734e48dddf8b7fa7f224015588)](https://open.spotify.com/track/7Dt26KoNRmZpzlVwMe6LSP) | [![Edge of Desire](https://i.scdn.co/image/ab67616d0000b2731e3dbe4453ed61633c472fbe)](https://open.spotify.com/track/5gbxzSqABThINGDb7vIiwe) | [![1979](https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6)](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) |
+|:---:|:---:|:---:|
+| **Angelina**<br>Pinegrove | **Edge of Desire**<br>John Mayer | **1979**<br>The Smashing Pumpkins |
 
-**Angelina** · Pinegrove
-
----
-
-[![Listen](https://img.shields.io/badge/Press_Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://yourusername.github.io/music)
